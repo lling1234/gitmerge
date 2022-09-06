@@ -1,2 +1,2 @@
 # gitmerge
-gitmerge
+gitmerge ling
